@@ -1,14 +1,14 @@
 {
-  "name": "@clp/eslint-config-clp",
-  "version": "1.0.0",
-  "description": "Eslint config for CLP",
+  "name": "eslint-config-clp",
+  "version": "1.0.1",
+  "description": "Eslint sharable config for CLP",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/m1m1nx/eslint-config-clp.git"
   },
-  "author": "Emin Chernov <chernov.emin@gmail.com>",
-  "license": "ISC",
+  "author": "Emin Chernov",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/m1m1nx/eslint-config-clp/issues"
   },
