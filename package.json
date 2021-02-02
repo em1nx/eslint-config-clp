@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-clp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint sharable config for CLP",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,6 @@
     "eslint-config-google": "^0.14.0"
   },
   "peerDependencies": {
-    "eslint": ">= 7",
-    "@typescript-eslint/eslint-plugin": ">= 4"
+    "eslint": ">= 7"
   }
 }
