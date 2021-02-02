@@ -1,0 +1,21 @@
+{
+  "name": "@clp/eslint-config-clp",
+  "version": "1.0.0",
+  "description": "Eslint config for CLP",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1m1nx/eslint-config-clp.git"
+  },
+  "author": "Emin Chernov <chernov.emin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1m1nx/eslint-config-clp/issues"
+  },
+  "homepage": "https://github.com/m1m1nx/eslint-config-clp#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.14.2",
+    "@typescript-eslint/parser": "^4.14.2",
+    "eslint-config-google": "^0.14.0"
+  }
+}
