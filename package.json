@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-clp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Eslint sharable config for CLP",
   "main": "index.js",
   "repository": {
