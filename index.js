@@ -24,12 +24,17 @@ module.exports = {
     ],
 
     rules: {
-        '@typescript-eslint/no-var-requires': 'off',
-        '@typescript-eslint/explicit-module-boundary-types': 'off',
+
         'brace-style': [2, 'stroustrup', { 'allowSingleLine': false }],
         'max-len': ['error', { 'code': 120 }],
         'object-curly-spacing': ['error','always'],
-        'require-jsdoc': 'off'
+        'require-jsdoc': 'off',
+        "no-unused-vars": "off",
+
+        '@typescript-eslint/no-var-requires': 'off',
+        '@typescript-eslint/explicit-module-boundary-types': 'off',
+        "@typescript-eslint/no-unused-vars": "error",
+
     }
 
 };
