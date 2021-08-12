@@ -29,12 +29,14 @@ module.exports = {
         'max-len': ['error', { 'code': 120 }],
         'object-curly-spacing': ['error','always'],
         'require-jsdoc': 'off',
-        "no-unused-vars": "off",
-        "new-cap": "off",
+        'no-unused-vars': 'off',
+        'new-cap': 'off',
 
         '@typescript-eslint/no-var-requires': 'off',
         '@typescript-eslint/explicit-module-boundary-types': 'off',
-        "@typescript-eslint/no-unused-vars": ["error", {"argsIgnorePattern": "^_"}]
+        '@typescript-eslint/no-unused-vars': ['error', {'argsIgnorePattern': '^_'}],
+
+        'react-hooks/exhaustive-deps': 'off'
     }
 
 };
